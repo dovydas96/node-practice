@@ -1,3 +1,0 @@
-C:\Users\dovy\source\repos\NodejsTest\NodejsTest\obj\Debug\NodejsTest.njsprojAssemblyReference.cache
-C:\Users\dovy\source\repos\NodejsTest\NodejsTest\obj\Debug\NodejsTest.njsproj.CoreCompileInputs.cache
-C:\Users\dovy\source\repos\NodejsTest\NodejsTest\bin\Microsoft.NodejsTools.WebRole.dll
